@@ -62,7 +62,7 @@
       "name" : "ALC",
       "alias" : null,
       "subsystems" : [ {
-        "name" : "ALCPTC",
+        "name" : "ALC",
         "alias" : null,
         "filter" : {
           "elements" : [ ],
@@ -71,7 +71,7 @@
       } ],
       "filter" : null
     } ],
-    "mappingMode" : "FULL",
+    "mappingMode" : "WORK_ENV_ONLY",
     "readOnly" : false,
     "entryStage" : true,
     "synchronizeListings" : false
