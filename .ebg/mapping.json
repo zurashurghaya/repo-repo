@@ -55,27 +55,6 @@
     "entryStage" : true,
     "synchronizeListings" : false
   }, {
-    "name" : "dev3",
-    "environment" : "DEV",
-    "stageNumber" : 1,
-    "systems" : [ {
-      "name" : "ALC",
-      "alias" : null,
-      "subsystems" : [ {
-        "name" : "ALCPTC",
-        "alias" : null,
-        "filter" : {
-          "elements" : [ ],
-          "types" : [ ]
-        }
-      } ],
-      "filter" : null
-    } ],
-    "mappingMode" : "FULL",
-    "readOnly" : false,
-    "entryStage" : true,
-    "synchronizeListings" : false
-  }, {
     "name" : "toti",
     "environment" : "DEV",
     "stageNumber" : 1,
