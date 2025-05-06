@@ -5,7 +5,7 @@
     "context" : "zurashurghaya",
     "repository" : "repo-repo",
     "cloneUrl" : "https://github.com/zurashurghaya/repo-repo.git",
-    "branch" : null
+    "branch" : "dev1"
   },
   "endevor" : {
     "connection" : "connection-mock",
