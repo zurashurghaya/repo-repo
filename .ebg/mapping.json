@@ -72,7 +72,7 @@
       "filter" : null
     } ],
     "mappingMode" : "FULL",
-    "readOnly" : false,
+    "readOnly" : true,
     "entryStage" : true,
     "synchronizeListings" : false
   }, {
