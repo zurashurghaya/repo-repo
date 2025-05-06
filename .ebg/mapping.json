@@ -5,7 +5,7 @@
     "context" : "zurashurghaya",
     "repository" : "repo-repo",
     "cloneUrl" : "https://github.com/zurashurghaya/repo-repo.git",
-    "branch" : null
+    "branch" : "dev"
   },
   "endevor" : {
     "connection" : "connection-mock",
@@ -55,14 +55,14 @@
     "entryStage" : true,
     "synchronizeListings" : false
   }, {
-    "name" : "dev3",
+    "name" : "toti",
     "environment" : "DEV",
     "stageNumber" : 1,
     "systems" : [ {
       "name" : "ALC",
       "alias" : null,
       "subsystems" : [ {
-        "name" : "ALCPTC",
+        "name" : "ALC",
         "alias" : null,
         "filter" : {
           "elements" : [ ],
