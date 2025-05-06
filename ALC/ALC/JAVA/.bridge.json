@@ -1,16 +1,16 @@
 {
   "elements" : {
-    "TESTE1" : {
+    "TESTE2" : {
       "processorGroup" : "TEST"
     }
   },
   "defaultProcessorGroup" : "*NOPROC*",
   "definedProcessorGroups" : [ {
     "name" : "*NOPROC*",
-    "description" : "NO PROCESSORS ASSIGNED"
+    "description" : "java elements"
   }, {
-    "name" : "ASMNBL",
-    "description" : "ASSEMBLE AND LINK-EDIT, LISTING IS STORED"
+    "name" : "TESTSYMB",
+    "description" : "test symbolics"
   } ],
-  "fileExtension" : ""
+  "fileExtension" : "java"
 }
